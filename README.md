@@ -1,4 +1,4 @@
-# Electric-Department
+# Electric-Department-Management
 Employee and User Interface on Python IDLE with MySQL Connectivity
 
 Steps to Run the Code on your Desktop:
